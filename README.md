@@ -1,4 +1,4 @@
-# SocialCop Test App
+# JWT-Token for Authorization
 
 ## Quick Summary :
 ### This app is developed using NodeJS which has three major functionalities :
